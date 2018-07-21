@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/troxeljs/trove-blueprints.git"
+    "url": "git+https://github.com/Trove-Wiki/trove-blueprints.git"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -18,9 +18,9 @@
   "author": "Christian Moritz",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/troxeljs/trove-blueprints/issues"
+    "url": "https://github.com/Trove-Wiki/trove-blueprints/issues"
   },
-  "homepage": "https://github.com/troxeljs/trove-blueprints#readme",
+  "homepage": "https://github.com/Trove-Wiki/trove-blueprints#readme",
   "devDependencies": {
     "ansi": "^0.3.1",
     "bluebird": "^3.3.4",
@@ -33,6 +33,6 @@
     "merge-stream": "^1.0.0",
     "minimist": "^1.2.0",
     "replacestream": "^4.0.0",
-    "troxel": "github:chrmoritz/troxel"
+    "troxel": "github:Trove-Wiki/troxel"
   }
 }
