@@ -1,5 +1,5 @@
 {
-  "name": "troxel-trove-blueprints",
+  "name": "wiki-troxel-trove-blueprints",
   "version": "1.0.0",
   "description": "Voxel data imported from the game Trove for displaying in the WebGL-based voxel viewer Troxel",
   "scripts": {
@@ -33,6 +33,7 @@
     "merge-stream": "^1.0.0",
     "minimist": "^1.2.0",
     "replacestream": "^4.0.0",
+    "require-dir": "^0.3.2",
     "troxel": "github:Trove-Wiki/troxel"
   }
 }
