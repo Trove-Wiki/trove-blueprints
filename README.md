@@ -28,8 +28,7 @@ You can also pass some optional arguments to the Importer like in `npm start -- 
 * `-w`: to reimport all known blueprints with warnings, even if their sha256 sum didn't changed (always use it after a new blueprint with a warning is detected, because sometimes the devtool is non deterministic and produces unnecessarry warning for some blueprints)
 
 #### Adding Custom Models
-Comment out line 79 in Gulpfile.js by placing "//" before "promises" and place the custom blueprint files in Trove\Live\bpexport. Then run
-```
-npm start
-```
-Uncomment to return to normal functionality.
+Comment out line 79 in Gulpfile.js by placing "//" before "promises" and place the custom blueprint files in Trove\Live\bpexport. Then run `npm start`. Uncomment to return to normal functionality.
+
+
+Push all changes to this repository to update Wiki Models.
