@@ -30,4 +30,4 @@ You can also pass some optional arguments to the Importer like in `npm start -- 
 Push all changes to this repository to update Wiki Models.
 
 #### Adding Custom Models
-Comment out line 79 in Gulpfile.js by placing "//" before "promises" and place the custom blueprint files in Trove\Live\bpexport. Then run `npm start`. Uncomment to return to normal functionality.
+Comment out line 79 in Gulpfile.js by placing `//` at the beginning of the line and place the custom blueprint files in `Trove\Live\bpexport`. Run `npm start`. Uncomment to return to normal functionality.
