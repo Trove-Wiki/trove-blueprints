@@ -15,7 +15,7 @@ cd wiki-troxel-trove-blueprints
 npm install
 ```
 
-### Importing
+### Updating/Adding New Models
 ```
 npm start
 ```
@@ -27,8 +27,7 @@ You can also pass some optional arguments to the Importer like in `npm start -- 
 * `-e`: to reimport all known blueprints with errors (which were skipped to import in a prior run), even if their sha256 sum didn't changed (use it if you want to try if the error was fixed by a devtool update)
 * `-w`: to reimport all known blueprints with warnings, even if their sha256 sum didn't changed (always use it after a new blueprint with a warning is detected, because sometimes the devtool is non deterministic and produces unnecessarry warning for some blueprints)
 
+Push all changes to this repository to update Wiki Models.
+
 #### Adding Custom Models
 Comment out line 79 in Gulpfile.js by placing "//" before "promises" and place the custom blueprint files in Trove\Live\bpexport. Then run `npm start`. Uncomment to return to normal functionality.
-
-
-Push all changes to this repository to update Wiki Models.
