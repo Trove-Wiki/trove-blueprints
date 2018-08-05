@@ -37,8 +37,9 @@ Example: `npm start -- -j 8 --trovedir="C:\Trove" -we`
 
 #### Adding Custom Models
 1. Open Gulpfile.js (located in `C:\Users\(User_Name)\wiki-troxel-trove-blueprints`) and open it with your favourite text editor.
-2. Comment out line 79 by placing `//` at the beginning of the line and save. Place custom blueprint files in `Trove\Live\bpexport`.
-3. Run the code under "Updating/Adding New Models".
+2. Comment out line 79 by placing `//` at the beginning of the line and save.
+3. Place custom blueprint files in `Trove\Live\bpexport`.
+4. Run the code under "Updating/Adding New Models".
 
 Uncomment to return to normal functionality.
 
