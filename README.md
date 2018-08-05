@@ -16,8 +16,6 @@ git clone --single-branch https://github.com/Trove-Wiki/trove-blueprints.git wik
 cd wiki-troxel-trove-blueprints
 npm install
 ```
-
-### Folder Location
 After installation, a folder should appear in `C:\Users\(User_Name)\wiki-troxel-trove-blueprints`.
 
 ### Updating/Adding New Models
