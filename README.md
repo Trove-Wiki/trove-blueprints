@@ -44,5 +44,7 @@ Comment out line 79 in Gulpfile.js by placing `//` at the beginning of the line 
 In the command prompt of your choice, run the following:
 ```
 cd wiki-troxel-trove-blueprints
+git add *
+git commit -m "Change Summary Here"
 git push https://github.com/Trove-Wiki/trove-blueprints.git master
 ```
