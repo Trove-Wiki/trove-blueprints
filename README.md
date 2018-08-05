@@ -7,8 +7,10 @@ It's mainly used as a dependency of the Troxel project. Therefore all voxel data
 ## Importing Trove Blueprint data
 ### Dependencies:
 * [Node.js 4+](https://nodejs.org/)
+* [Git](https://git-scm.com/downloads)
 
 ### Installing
+In the command prompt, run the following:
 ```
 git clone --single-branch https://github.com/Trove-Wiki/trove-blueprints.git wiki-troxel-trove-blueprints
 cd wiki-troxel-trove-blueprints
@@ -16,6 +18,7 @@ npm install
 ```
 
 ### Updating/Adding New Models
+Make sure you're in the wiki-troxel-trove-blueprints folder before running the following command.
 ```
 npm start
 ```
