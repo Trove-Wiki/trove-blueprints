@@ -48,6 +48,6 @@ In the command prompt of your choice, run the following:
 ```
 cd wiki-troxel-trove-blueprints
 git add *
-git commit -m "Change Summary Here"
+git commit -m "Insert Change Summary Here."
 git push https://github.com/Trove-Wiki/trove-blueprints.git master
 ```
