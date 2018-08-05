@@ -36,7 +36,11 @@ You can also pass some optional arguments. The supported optional arguments are:
 Example: `npm start -- -j 8 --trovedir="C:\Trove" -we`
 
 #### Adding Custom Models
-Open Gulpfile.js-located in `C:\Users\(User_Name)\wiki-troxel-trove-blueprints`-and open it with your favourite text editor. Comment out line 79 by placing `//` at the beginning of the line and save. Place custom blueprint files in `Trove\Live\bpexport`. Run the code under "Updating/Adding New Models". Uncomment to return to normal functionality.
+1. Open Gulpfile.js (located in `C:\Users\(User_Name)\wiki-troxel-trove-blueprints`) and open it with your favourite text editor.
+2. Comment out line 79 by placing `//` at the beginning of the line and save. Place custom blueprint files in `Trove\Live\bpexport`.
+3. Run the code under "Updating/Adding New Models".
+
+Uncomment to return to normal functionality.
 
 ### Publishing Changes
 In the command prompt of your choice, run the following:
