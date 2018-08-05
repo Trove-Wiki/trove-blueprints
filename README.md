@@ -41,7 +41,7 @@ Example: `npm start -- -j 8 --trovedir="C:\Trove" -we`
 3. Place custom blueprint files in `Trove\Live\bpexport`.
 4. Run the code under "Updating/Adding New Models".
 
-Uncomment to return to normal functionality.
+Remove the `//` to return to normal functionality.
 
 ### Publishing Changes
 In the command prompt of your choice, run the following:
