@@ -21,8 +21,8 @@ After installation, a folder should appear in `C:\Users\(User_Name)\wiki-troxel-
 ### Updating/Adding New Models
 In the command prompt of your choice, run the following:
 ```
-git pull
 cd wiki-troxel-trove-blueprints
+git pull
 npm start
 ```
 You can also pass some optional arguments. The supported optional arguments are:
