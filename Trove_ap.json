@@ -1119,6 +1119,11 @@
     -1,
     4
   ],
+  "c_c_cat_cow_tail_01": [
+    0,
+    4,
+    1
+  ],
   "c_c_caterpillar_skopecreep_spines_01": [
     3,
     0,
@@ -1499,6 +1504,11 @@
     -6,
     2
   ],
+  "c_c_octopus_fizpink_ui[fizzinc]": [
+    10,
+    0,
+    10
+  ],
   "c_c_octopus_ghost_hat": [
     7,
     0,
@@ -1598,6 +1608,16 @@
     5,
     5,
     5
+  ],
+  "c_c_punchbot_skulltrieye_eye": [
+    1,
+    3,
+    -4
+  ],
+  "c_c_punchbot_skulltrieye_glove": [
+    2,
+    0,
+    -3
   ],
   "c_c_punchbotbaby_body": [
     4,
@@ -1808,6 +1828,21 @@
     7,
     -2,
     6
+  ],
+  "c_c_qubesly_pizzanati_crest": [
+    0,
+    0,
+    3
+  ],
+  "c_c_qubesly_pizzanati_eye_r": [
+    5,
+    1,
+    5
+  ],
+  "c_c_qubesly_pizzanati_ui[tribe]": [
+    4,
+    0,
+    3
   ],
   "c_c_qubesly_plaguebearer_crest": [
     7,
@@ -4059,6 +4094,31 @@
     0,
     6
   ],
+  "c_mt_dragon_bomberroyale_ui": [
+    7,
+    0,
+    7
+  ],
+  "c_mt_dragon_bomberroyale_wing_l_01": [
+    29,
+    5,
+    17
+  ],
+  "c_mt_dragon_bomberroyale_wing_l_02": [
+    25,
+    6,
+    15
+  ],
+  "c_mt_dragon_bomberroyale_wing_r_01": [
+    -2,
+    5,
+    17
+  ],
+  "c_mt_dragon_bomberroyale_wing_r_02": [
+    -2,
+    6,
+    15
+  ],
   "c_mt_dragon_bone_body_01": [
     2,
     2,
@@ -4118,6 +4178,21 @@
     1,
     1,
     23
+  ],
+  "c_mt_dragon_darkshield_ui": [
+    6,
+    0,
+    6
+  ],
+  "c_mt_dragon_darkshield_wing_l_01": [
+    17,
+    1,
+    5
+  ],
+  "c_mt_dragon_darkshield_wing_r_01": [
+    -3,
+    1,
+    5
   ],
   "c_mt_dragon_deepsea_body_07": [
     8,
@@ -4423,6 +4498,41 @@
     0,
     1,
     42
+  ],
+  "c_mt_dragon_twoheads_lightdark_foot_fl": [
+    5,
+    1,
+    5
+  ],
+  "c_mt_dragon_twoheads_lightdark_foot_fr": [
+    -2,
+    1,
+    5
+  ],
+  "c_mt_dragon_twoheads_lightdark_shoulder_fl": [
+    6,
+    1,
+    3
+  ],
+  "c_mt_dragon_twoheads_lightdark_shoulder_fr": [
+    -4,
+    1,
+    3
+  ],
+  "c_mt_dragon_twoheads_lightdark_ui": [
+    13,
+    0,
+    8
+  ],
+  "c_mt_dragon_twoheads_lightdark_wing_l_01": [
+    24,
+    2,
+    18
+  ],
+  "c_mt_dragon_twoheads_lightdark_wing_r_01": [
+    -4,
+    2,
+    18
   ],
   "c_mt_dragonlong_cny2016_ui": [
     6,
@@ -4789,6 +4899,36 @@
     0,
     19
   ],
+  "c_mt_magrail_dance_skull_hand_bl": [
+    1,
+    2,
+    2
+  ],
+  "c_mt_magrail_dance_skull_hand_br": [
+    1,
+    2,
+    2
+  ],
+  "c_mt_magrail_dance_skull_hand_fl": [
+    1,
+    2,
+    2
+  ],
+  "c_mt_magrail_dance_skull_hand_fr": [
+    1,
+    2,
+    2
+  ],
+  "c_mt_magrail_dance_skull_jaw": [
+    3,
+    1,
+    2
+  ],
+  "c_mt_magrail_dance_skull_ui[highlancer54]": [
+    15,
+    0,
+    18
+  ],
   "c_mt_mastery_cycle_arms": [
     5,
     0,
@@ -5019,6 +5159,11 @@
     3,
     2
   ],
+  "c_mt_raptor_budgie_bw_jaw": [
+    1,
+    -1,
+    -1
+  ],
   "c_mt_raptor_budgie_pink_jaw": [
     2,
     -2,
@@ -5038,6 +5183,21 @@
     4,
     2,
     12
+  ],
+  "c_mt_raptor_mech_l_foot": [
+    3,
+    1,
+    3
+  ],
+  "c_mt_raptor_mech_neck": [
+    15,
+    -2,
+    1
+  ],
+  "c_mt_raptor_peacock_ui[wyndsong]": [
+    3,
+    0,
+    7
   ],
   "c_mt_raptor_raiju_ui": [
     5,
@@ -6024,6 +6184,11 @@
     0,
     3
   ],
+  "c_p_candybarbarian_borkbarian_ui": [
+    11,
+    0,
+    6
+  ],
   "c_p_candybarbarian_cubist_front_skirt": [
     3,
     4,
@@ -6979,6 +7144,16 @@
     0,
     3
   ],
+  "c_p_gunslinger_tuxedo_belt": [
+    3,
+    1,
+    3
+  ],
+  "c_p_gunslinger_tuxedo_ui": [
+    7,
+    0,
+    4
+  ],
   "c_p_hair_asymstripes[rajeeb]": [
     7,
     4,
@@ -7029,6 +7204,11 @@
     4,
     6
   ],
+  "c_p_hair_boltcut[rajeeb]": [
+    9,
+    6,
+    6
+  ],
   "c_p_hair_bone[misztersoul]": [
     6,
     3,
@@ -7068,6 +7248,11 @@
     10,
     2,
     6
+  ],
+  "c_p_hair_chaoscoils[jusiv]": [
+    10,
+    -1,
+    10
   ],
   "c_p_hair_cloudstyle[zoe]": [
     8,
@@ -7159,6 +7344,11 @@
     2,
     12
   ],
+  "c_p_hair_eleventh[dragoes]": [
+    9,
+    4,
+    6
+  ],
   "c_p_hair_elfstraight[eefiejj]": [
     10,
     5,
@@ -7238,6 +7428,11 @@
     5,
     -6,
     5
+  ],
+  "c_p_hair_hairsquared[zilten]": [
+    10,
+    5,
+    8
   ],
   "c_p_hair_headphones[waffleboy]": [
     7,
@@ -7428,6 +7623,11 @@
     6,
     4,
     7
+  ],
+  "c_p_hair_mermaid[dragoes]": [
+    8,
+    8,
+    9
   ],
   "c_p_hair_mohawk_convex[carlolz]": [
     2,
@@ -7754,6 +7954,11 @@
     4,
     9
   ],
+  "c_p_hair_spikymess[skythevirus]": [
+    10,
+    5,
+    9
+  ],
   "c_p_hair_spiraltail[pinknekogirl]": [
     10,
     8,
@@ -7804,6 +8009,11 @@
     1,
     6
   ],
+  "c_p_hair_terrificent[nudal]": [
+    10,
+    0,
+    8
+  ],
   "c_p_hair_tiny[misztersoul]": [
     5,
     1,
@@ -7823,6 +8033,11 @@
     7,
     3,
     5
+  ],
+  "c_p_hair_twintailcat[sixthaxis]": [
+    7,
+    7,
+    8
   ],
   "c_p_hair_twintails[eikouta]": [
     10,
@@ -17019,6 +17234,136 @@
     4,
     -6
   ],
+  "equipment_face_mask_071[taliar]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_073[croissanti]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_074[griffenl]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_075[xrobotx]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_076[wackyrobert100]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_077[everscream]": [
+    5,
+    3,
+    -6
+  ],
+  "equipment_face_mask_078[cauchemare]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_079[cauchemare]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_080[dakotaspine]": [
+    5,
+    3,
+    -6
+  ],
+  "equipment_face_mask_081[dakotaspine]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_082[cytorax]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_083[anzy]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_084[furebel]": [
+    5,
+    1,
+    -6
+  ],
+  "equipment_face_mask_085[dancingdragon]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_086[cauchemare]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_087[kvoor]": [
+    6,
+    4,
+    -6
+  ],
+  "equipment_face_mask_088[keeneen]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_089[humpypants]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_090[stermo]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_091[aquax2]": [
+    5,
+    5,
+    -6
+  ],
+  "equipment_face_mask_092[zeky]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_093[uedtormentor]": [
+    5,
+    4,
+    -7
+  ],
+  "equipment_face_mask_094[keeneen]": [
+    5,
+    1,
+    -6
+  ],
+  "equipment_face_mask_095[ajo]": [
+    2,
+    4,
+    -6
+  ],
+  "equipment_face_mask_096[woo]": [
+    4,
+    4,
+    -6
+  ],
+  "equipment_face_mask_097[woo]": [
+    4,
+    4,
+    -6
+  ],
   "equipment_face_mask_3dglasses[hawanity]": [
     5,
     0,
@@ -19794,6 +20139,106 @@
     -7,
     13
   ],
+  "equipment_hat_053[henrichvonrotenborg]": [
+    7,
+    -6,
+    6
+  ],
+  "equipment_hat_054[vovkgr]": [
+    5,
+    -7,
+    4
+  ],
+  "equipment_hat_055[carthago47]": [
+    4,
+    -7,
+    3
+  ],
+  "equipment_hat_056[furrek]": [
+    5,
+    -7,
+    8
+  ],
+  "equipment_hat_057[zoe]": [
+    9,
+    -7,
+    6
+  ],
+  "equipment_hat_058[gimbly]": [
+    10,
+    -7,
+    9
+  ],
+  "equipment_hat_059[pillarangel]": [
+    7,
+    -7,
+    6
+  ],
+  "equipment_hat_060[gogestickcj]": [
+    6,
+    -7,
+    5
+  ],
+  "equipment_hat_061[noisyvenom]": [
+    7,
+    -7,
+    6
+  ],
+  "equipment_hat_062[deimondou]": [
+    6,
+    -7,
+    7
+  ],
+  "equipment_hat_063[mew2ian]": [
+    5,
+    -7,
+    11
+  ],
+  "equipment_hat_064[atlas_sanchez]": [
+    6,
+    -7,
+    6
+  ],
+  "equipment_hat_065[pumkmine]": [
+    5,
+    -7,
+    4
+  ],
+  "equipment_hat_066[animationman]": [
+    6,
+    -7,
+    5
+  ],
+  "equipment_hat_067[flamintnt]": [
+    8,
+    -7,
+    7
+  ],
+  "equipment_hat_068[rajeeb]": [
+    3,
+    -7,
+    7
+  ],
+  "equipment_hat_069[discipulus]": [
+    10,
+    -7,
+    9
+  ],
+  "equipment_hat_070[knightlock]": [
+    7,
+    -7,
+    6
+  ],
+  "equipment_hat_071[gadgetcat]": [
+    6,
+    -7,
+    8
+  ],
+  "equipment_hat_072[pennry]": [
+    8,
+    -7,
+    8
+  ],
   "equipment_hat_advenkitty[misztersoul]": [
     4,
     -7,
@@ -20003,6 +20448,11 @@
     5,
     -7,
     4
+  ],
+  "equipment_hat_brasil[trove_brazil]": [
+    8,
+    -7,
+    7
   ],
   "equipment_hat_brolly[qoaleth]": [
     9,
@@ -20399,6 +20849,11 @@
     -7,
     7
   ],
+  "equipment_hat_dinotamer_steampunk": [
+    10,
+    -5,
+    9
+  ],
   "equipment_hat_dirtjar[glitch]": [
     7,
     -7,
@@ -20693,6 +21148,11 @@
     8,
     -7,
     -4
+  ],
+  "equipment_hat_gunslinger_tuxedo": [
+    10,
+    -6,
+    7
   ],
   "equipment_hat_halfhelm_01": [
     6,
@@ -21944,6 +22404,11 @@
     4,
     8
   ],
+  "equipment_helm_adventurer_lvl3[evilagician]": [
+    7,
+    4,
+    9
+  ],
   "equipment_helm_adventurer_lvl4[ylva]": [
     11,
     4,
@@ -21966,6 +22431,11 @@
   ],
   "equipment_helm_adventurer_winterranger": [
     6,
+    4,
+    6
+  ],
+  "equipment_helm_agumonster[agum0n]": [
+    7,
     4,
     6
   ],
@@ -22019,6 +22489,11 @@
     4,
     8
   ],
+  "equipment_helm_bigbrain[troveteam]": [
+    5,
+    -5,
+    4
+  ],
   "equipment_helm_blueranger[aingommon]": [
     8,
     4,
@@ -22026,6 +22501,11 @@
   ],
   "equipment_helm_brownbag[metaforgestream]": [
     6,
+    4,
+    5
+  ],
+  "equipment_helm_candybarbarian_borkbarian": [
+    9,
     4,
     5
   ],
@@ -22247,6 +22727,11 @@
   "equipment_helm_dinotamer_lvl2[evilagician]": [
     9,
     1,
+    8
+  ],
+  "equipment_helm_dinotamer_lvl3[ylva]": [
+    9,
+    2,
     8
   ],
   "equipment_helm_dinotamer_lvl4[evilagician]": [
@@ -22584,6 +23069,11 @@
     4,
     5
   ],
+  "equipment_helm_geodepurple[troveteam]": [
+    8,
+    1,
+    7
+  ],
   "equipment_helm_golem[evilagician]": [
     12,
     4,
@@ -22644,6 +23134,11 @@
     4,
     12
   ],
+  "equipment_helm_gunslinger_lvl4[pendk]": [
+    9,
+    6,
+    9
+  ],
   "equipment_helm_gunslinger_moonsilver": [
     10,
     4,
@@ -22655,6 +23150,11 @@
     5
   ],
   "equipment_helm_halloween_zombie": [
+    7,
+    4,
+    6
+  ],
+  "equipment_helm_halvocado[troveteam]": [
     7,
     4,
     6
@@ -22774,6 +23274,11 @@
     4,
     6
   ],
+  "equipment_helm_knight_lvl3[ylva]": [
+    8,
+    4,
+    6
+  ],
   "equipment_helm_knight_lvl4[evilagician]": [
     8,
     4,
@@ -22805,6 +23310,11 @@
     6
   ],
   "equipment_helm_ladybug_shadow": [
+    9,
+    4,
+    8
+  ],
+  "equipment_helm_lippylap[lippylapras]": [
     9,
     4,
     8
@@ -22909,6 +23419,11 @@
     4,
     7
   ],
+  "equipment_helm_nedkelly[boo_aus]": [
+    7,
+    4,
+    6
+  ],
   "equipment_helm_nekomaid_01[gadgetcat]": [
     9,
     4,
@@ -22959,6 +23474,11 @@
     4,
     6
   ],
+  "equipment_helm_neonninja_lvl3[evilagician]": [
+    9,
+    4,
+    6
+  ],
   "equipment_helm_neonninja_lvl4[evilagician]": [
     9,
     4,
@@ -23006,6 +23526,11 @@
   ],
   "equipment_helm_pinata_mastery": [
     6,
+    4,
+    8
+  ],
+  "equipment_helm_pinata_masteryex[skythevirus]": [
+    10,
     4,
     8
   ],
@@ -23148,6 +23673,11 @@
     11,
     4,
     6
+  ],
+  "equipment_helm_shadowduck[bisquitecat]": [
+    8,
+    4,
+    7
   ],
   "equipment_helm_shadowhorse[scapes]": [
     7,
@@ -24344,6 +24874,11 @@
     10,
     2
   ],
+  "equipment_weapon_pistol_544[extrysgo]": [
+    2,
+    7,
+    2
+  ],
   "equipment_weapon_pistol_china_01": [
     2,
     8,
@@ -24460,8 +24995,13 @@
     1
   ],
   "equipment_wings_flame_geo_01": [
-    6,
-    -3,
+    7,
+    -4,
+    1
+  ],
+  "equipment_wings_flame_geo_red_01": [
+    7,
+    -4,
     1
   ],
   "equipment_wings_flower_white_01": [
@@ -25849,6 +26389,11 @@
     -2,
     7
   ],
+  "item_aura_stellar_dizzy_01": [
+    6,
+    0,
+    5
+  ],
   "item_aura_stellar_electric_01": [
     7,
     0,
@@ -26624,6 +27169,11 @@
     -2,
     4
   ],
+  "item_dragon_essence_beecat": [
+    7,
+    -4,
+    3
+  ],
   "item_dragon_essence_bird": [
     4,
     -2,
@@ -26653,6 +27203,11 @@
     4,
     -2,
     5
+  ],
+  "item_dragon_essence_darkshield": [
+    5,
+    -4,
+    3
   ],
   "item_dragon_essence_data": [
     5,
@@ -26724,6 +27279,11 @@
     -1,
     4
   ],
+  "item_dragonscale_blue": [
+    6,
+    -1,
+    0
+  ],
   "item_dragonsoul_beard": [
     7,
     -2,
@@ -26783,6 +27343,16 @@
     7,
     -2,
     8
+  ],
+  "item_egg_dragon_darkshield": [
+    10,
+    -1,
+    7
+  ],
+  "item_egg_dragon_darkshield_gold": [
+    10,
+    -1,
+    7
   ],
   "item_essence_dragon_oldblue": [
     6,
@@ -28133,6 +28703,16 @@
     5,
     0,
     5
+  ],
+  "powerup_candybarbarian_borkbarian_health": [
+    4,
+    0,
+    2
+  ],
+  "powerup_candybarbarian_borkbarian_rage": [
+    4,
+    0,
+    2
   ],
   "pvp_consumable_bomb": [
     9,
