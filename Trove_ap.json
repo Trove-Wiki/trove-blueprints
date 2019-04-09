@@ -959,6 +959,21 @@
     0,
     2
   ],
+  "block_vfx_fog_green": [
+    5,
+    0,
+    2
+  ],
+  "block_vfx_fog_orange": [
+    5,
+    0,
+    2
+  ],
+  "block_vfx_fog_purple": [
+    5,
+    0,
+    2
+  ],
   "block_vfx_leaves": [
     4,
     0,
@@ -2173,6 +2188,16 @@
     -1,
     4,
     1
+  ],
+  "c_c_stack_cookies_bacon_01": [
+    5,
+    -2,
+    5
+  ],
+  "c_c_stack_cookies_ui[skythevirus]": [
+    8,
+    -4,
+    8
   ],
   "c_c_tentacle_jack_body_03": [
     2,
@@ -15644,6 +15669,51 @@
     0,
     6
   ],
+  "deco_trophy_geode_bipedmed_crabwarrior": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_clam_shadow": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_foxspirit_shadowfish": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_jellyfish_shadow": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_lobster_brawler": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_manta_shadow": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_moray_shadowmage": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_pentapod_shadowcaster": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_geode_stiltstitcher_undertow": [
+    5,
+    0,
+    6
+  ],
   "deco_trophy_giant_ice[tribe]": [
     5,
     0,
@@ -20219,6 +20289,11 @@
     1,
     -6
   ],
+  "equipment_fist_gardening": [
+    2,
+    5,
+    2
+  ],
   "equipment_flask_effect_ally_magic": [
     6,
     -1,
@@ -21988,6 +22063,11 @@
     6,
     -7,
     9
+  ],
+  "equipment_hat_gardening": [
+    8,
+    -7,
+    7
   ],
   "equipment_hat_gemknight[zwatchdog]": [
     10,
@@ -25078,6 +25158,11 @@
     7,
     4,
     5
+  ],
+  "equipment_staff_gardening": [
+    4,
+    0,
+    17
   ],
   "equipment_tome_ancientgears_legendary": [
     6,
@@ -28879,6 +28964,11 @@
     0,
     7
   ],
+  "item_popper_bomb_01": [
+    4,
+    -1,
+    5
+  ],
   "item_potato": [
     3,
     0,
@@ -29946,6 +30036,11 @@
   ],
   "plant_flower_gardening_orchid": [
     4,
+    0,
+    6
+  ],
+  "plant_flower_gardening_popper_01": [
+    5,
     0,
     6
   ],
